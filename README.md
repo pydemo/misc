@@ -1,1 +1,2 @@
 # misc
+basic opencv stuff
